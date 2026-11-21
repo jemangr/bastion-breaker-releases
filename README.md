@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.1.1-brightgreen" alt="Version v1.1.1" />
+  <img src="https://img.shields.io/badge/Version-v1.2.0-brightgreen" alt="Version v1.2.0" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.bastionbreaker-blue" alt="Package app.jemangr.bastionbreaker" />
   <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-purple" alt="Android 8.0+" />
   <img src="https://img.shields.io/badge/Languages-EL%20%7C%20EN-gold" alt="Languages EL | EN" />
@@ -40,14 +40,14 @@ Always get the latest official Android APK build from this permanent link:
 
 ---
 
-## ✨ Key Highlights (`v1.1.1`)
+## ✨ Key Highlights (`v1.2.0`)
 
-- 📜 **Vertical-Scrolling Multi-Zone Caverns:** Swipe smoothly from your Siege Camp through 3 fortified subterranean zones up to the Boss Gate, with touch inertia, edge auto-scroll when dragging goblins, a vertical depth minimap, and quick-jump camera buttons (`⛩️` / `⚔️` / `🏕️`).
-- ⛏️ **Idle-Merge Mining + Barrel Cannon:** Tap supply barrels, buy units, and drag matching goblins (`Lv.N + Lv.N → Lv.N+1`) to upgrade and heal 100% HP mid-combat across deeper, longer-paced Mines.
-- 🎡 **Ad-Powered Lucky Roulette:** Claim 1 free daily spin or watch Demo Rewarded Ads to spin the 8-prize Fortune Wheel for Gold, Purple Elixir, Gems, Bonus High-Level Goblins, `×2` Boost, and Skill Refills!
-- 🛡️ **3 Goblin Classes & Deeper Combat Balance:** *Shield Tank* (`Taunt`), *Miner* (`×3` excavation), and *Siege Bomber* (`×2.3` splash), fighting against guarded Boss Gates (`-50%` Gate Shield while ≥2 towers stand).
+- 🛒 **Rolling Forge Wagon (Scrolls With You!):** Your Barrel Cannon, supply barrels, and 6-slot goblin merge dock roll alongside you as you scroll up through the cavern, so recruiting & dropping goblins into battle is always one thumb away!
+- 🎨 **Sculpted Bronze & Iron Siege HUD:** Forged resource capsules, live Fortress Progress Bar, floating left event medallions (`🎡` Lucky Roulette, `⚡` ×2 Boost, `⏱️` Daily Raid), raised-center Goblin Summon hero button, and right-edge Depth Minimap + quick-scroll controls (`⛩️` / `⚔️` / `⬇️`).
+- 📜 **Deeper `1920px` 3-Zone Caverns & Checkpoint Gate:** Fight through Outer Tunnels (`y=1120..1850`), shatter the fortified **Mid-Mine Checkpoint Gate** (`y=1000`), liberate inner outposts, and topple guarded Boss Gates (`-50%` Gate Shield while ≥2 towers stand), with smooth tunnel scroll transitions between Mines!
+- 🎡 **Ad-Powered Lucky Roulette:** Claim 1 free daily spin or watch Demo Rewarded Ads from the golden `🎡` medallion to spin the 8-prize Fortune Wheel.
 - 🗼 **Tower Flip & Marching Knight Waves:** Every enemy tower (Archer, Cannon, Ice, Tesla) shoots & deploys Iron Legion Knight waves — destroy a tower to flip it emerald green into a Healing, Bombardment, Haste, or `×2` Gold support tower!
-- 🔊 **Warm Mastered Combat Audio:** Filtered & throttled Web Audio SFX with `DynamicsCompressor` limiting and cozy cavern harp music.
+- 🔊 **Studio-Warm Mastered Combat Audio:** Filtered `3800Hz` lowpass Web Audio SFX, global combat density limiter (`≤3` per `320ms`), organic foley, and cozy cavern harp music.
 - 🃏 **5 Underground Realms, Cards & Offline Idle:** Progress through *Copper Tunnels* to *Iron King's Citadel*, upgrade Cards with Purple Elixir, automate mineshafts, and earn offline gold.
 - ⏱️ **Daily 90" Tower Raid:** Compete on a globally seeded daily siege layout for 🥉/🥈/🥇 medals.
 - 🔄 **Automatic 6-Hour Update Checker:** Checks `version.json` silently every 6 hours + one-tap check in Settings, with an **Our Other Apps** showcase listing all 12 live apps from [jemangr.app](https://jemangr.app).

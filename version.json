@@ -1,13 +1,13 @@
 {
   "name": "Bastion Breaker",
   "package": "app.jemangr.bastionbreaker",
-  "version": "1.1.1",
-  "version_code": 10101,
+  "version": "1.2.0",
+  "version_code": 10200,
   "release_date": "2026-11-21",
   "author": "Giannis",
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/bastion-breaker-releases/releases/latest/download/bastion-breaker.apk",
   "releases_url": "https://github.com/jemangr/bastion-breaker-releases/releases",
-  "release_notes_el": "Έκδοση v1.1.1: 🌟 Ενημερωμένη καρτέλα «Άλλες εφαρμογές» με και τις 12 διαθέσιμες εφαρμογές & παιχνίδια του jemangr.app (δίγλωσση λίστα με άμεσα links) + όλες οι βελτιώσεις της v1.1.0 (κάθετο scroll, βαθύτερος ρυθμός, ζεστός ήχος μάχης & 🎡 Ρουλέτα).",
-  "release_notes_en": "Version v1.1.1: 🌟 Updated 'Other Apps' Settings tab showcasing all 12 live apps & games from jemangr.app with direct bilingual links + all v1.1.0 improvements (vertical scroll caverns, deeper pacing, warm combat audio & 🎡 Lucky Roulette)."
+  "release_notes_el": "Έκδοση v1.2.0: 🛒 Κινητή Άμαξα Στρατοπέδου που ακολουθεί το scroll (Κανόνι Βαρελιών & 6 Slots πάντα μαζί σου), 🎨 ανασχεδιασμένο Gold & Goblins-inspired UI με πλαϊνά μενταγιόν (🎡 Ρουλέτα Ads, ⚡ ×2, ⏱️ Raid) & μπάρα προόδου, ⛩️ Ενδιάμεση Πύλη (Checkpoint) & βαθύτερες στοές 1920px, 🎬 scroll-μετάβαση πίστας και 🔊 studio-warm ήχος μάχης.",
+  "release_notes_en": "Version v1.2.0: 🛒 Rolling Forge Wagon that scrolls with you (Barrel Cannon & 6 merge slots always at your thumb), 🎨 Gold & Goblins-inspired sculpted Siege UI with side medallions (🎡 Ad Roulette, ⚡ ×2, ⏱️ Raid) & fortress progress bar, ⛩️ Mid-Mine Checkpoint Gate & deeper 1920px caverns, 🎬 tunnel scroll transitions, and 🔊 studio-warm combat audio."
 }
