@@ -1,13 +1,13 @@
 {
   "name": "Bastion Breaker",
   "package": "app.jemangr.bastionbreaker",
-  "version": "1.0.0",
-  "version_code": 10000,
+  "version": "1.1.0",
+  "version_code": 10100,
   "release_date": "2026-11-21",
   "author": "Giannis",
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/bastion-breaker-releases/releases/latest/download/bastion-breaker.apk",
   "releases_url": "https://github.com/jemangr/bastion-breaker-releases/releases",
-  "release_notes_el": "Έκδοση v1.0.0: 🏰 Πρώτη επίσημη κυκλοφορία του Bastion Breaker! 5 υπόγειες στοές, 3 κλάσεις Γκόμπλιν (Ασπιδοφόρος, Σκαπανέας, Πολιορκητής), 4 τύποι Πύργων με Tower Flip & κύματα Σιδερένιας Λεγεώνας, Κάρτες Αναβάθμισης, Offline έσοδα, Daily 90\" Tower Raid και αυτόματος έλεγχος ενημερώσεων ανά 6 ώρες.",
-  "release_notes_en": "Version v1.0.0: 🏰 Initial release of Bastion Breaker! 5 underground mines, 3 Goblin classes (Tank, Miner, Siege), 4 Tower types with Tower Flip & Iron Legion enemy waves, Upgrade Cards, Offline idle income, Daily 90s Tower Raid, and automatic 6-hour APK update checker."
+  "release_notes_el": "Έκδοση v1.1.0: 📜 Κάθετες scrollable στοές 3 ζωνών με χάρτη βάθους & κουμπιά γρήγορης κάμερας, ⏱️ πολύ βαθύτερος ρυθμός πίστας & ισορροπημένες αναβαθμίσεις, 🔊 ανανεωμένος ζεστός ήχος μάχης χωρίς spam, και 🎡 Τροχός Τύχης (Ρουλέτα) με Demo Ads & ημερήσιο δωρεάν γύρισμα!",
+  "release_notes_en": "Version v1.1.0: 📜 Vertically scrollable 3-zone caverns with depth minimap & quick-scroll controls, ⏱️ deeper multi-zone mine pacing & Gate Shield, 🔊 warm filtered & throttled combat audio, and 🎡 Ad-Powered Lucky Roulette wheel with daily free spin & rewards!"
 }
