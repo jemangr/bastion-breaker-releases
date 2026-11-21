@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.1.0-brightgreen" alt="Version v1.1.0" />
+  <img src="https://img.shields.io/badge/Version-v1.1.1-brightgreen" alt="Version v1.1.1" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.bastionbreaker-blue" alt="Package app.jemangr.bastionbreaker" />
   <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-purple" alt="Android 8.0+" />
   <img src="https://img.shields.io/badge/Languages-EL%20%7C%20EN-gold" alt="Languages EL | EN" />
@@ -40,7 +40,7 @@ Always get the latest official Android APK build from this permanent link:
 
 ---
 
-## ✨ Key Highlights (`v1.1.0`)
+## ✨ Key Highlights (`v1.1.1`)
 
 - 📜 **Vertical-Scrolling Multi-Zone Caverns:** Swipe smoothly from your Siege Camp through 3 fortified subterranean zones up to the Boss Gate, with touch inertia, edge auto-scroll when dragging goblins, a vertical depth minimap, and quick-jump camera buttons (`⛩️` / `⚔️` / `🏕️`).
 - ⛏️ **Idle-Merge Mining + Barrel Cannon:** Tap supply barrels, buy units, and drag matching goblins (`Lv.N + Lv.N → Lv.N+1`) to upgrade and heal 100% HP mid-combat across deeper, longer-paced Mines.
@@ -50,7 +50,7 @@ Always get the latest official Android APK build from this permanent link:
 - 🔊 **Warm Mastered Combat Audio:** Filtered & throttled Web Audio SFX with `DynamicsCompressor` limiting and cozy cavern harp music.
 - 🃏 **5 Underground Realms, Cards & Offline Idle:** Progress through *Copper Tunnels* to *Iron King's Citadel*, upgrade Cards with Purple Elixir, automate mineshafts, and earn offline gold.
 - ⏱️ **Daily 90" Tower Raid:** Compete on a globally seeded daily siege layout for 🥉/🥈/🥇 medals.
-- 🔄 **Automatic 6-Hour Update Checker:** Checks `version.json` silently every 6 hours + one-tap check in Settings, with an **Our Other Apps** link to [jemangr.app](https://jemangr.app).
+- 🔄 **Automatic 6-Hour Update Checker:** Checks `version.json` silently every 6 hours + one-tap check in Settings, with an **Our Other Apps** showcase listing all 12 live apps from [jemangr.app](https://jemangr.app).
 - 🇬🇷 / 🇬🇧 **Bilingual (EL / EN) & Offline-First:** Plays offline with local on-device saves.
 
 ---

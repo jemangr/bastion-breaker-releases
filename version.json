@@ -1,13 +1,13 @@
 {
   "name": "Bastion Breaker",
   "package": "app.jemangr.bastionbreaker",
-  "version": "1.1.0",
-  "version_code": 10100,
+  "version": "1.1.1",
+  "version_code": 10101,
   "release_date": "2026-11-21",
   "author": "Giannis",
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/bastion-breaker-releases/releases/latest/download/bastion-breaker.apk",
   "releases_url": "https://github.com/jemangr/bastion-breaker-releases/releases",
-  "release_notes_el": "Έκδοση v1.1.0: 📜 Κάθετες scrollable στοές 3 ζωνών με χάρτη βάθους & κουμπιά γρήγορης κάμερας, ⏱️ πολύ βαθύτερος ρυθμός πίστας & ισορροπημένες αναβαθμίσεις, 🔊 ανανεωμένος ζεστός ήχος μάχης χωρίς spam, και 🎡 Τροχός Τύχης (Ρουλέτα) με Demo Ads & ημερήσιο δωρεάν γύρισμα!",
-  "release_notes_en": "Version v1.1.0: 📜 Vertically scrollable 3-zone caverns with depth minimap & quick-scroll controls, ⏱️ deeper multi-zone mine pacing & Gate Shield, 🔊 warm filtered & throttled combat audio, and 🎡 Ad-Powered Lucky Roulette wheel with daily free spin & rewards!"
+  "release_notes_el": "Έκδοση v1.1.1: 🌟 Ενημερωμένη καρτέλα «Άλλες εφαρμογές» με και τις 12 διαθέσιμες εφαρμογές & παιχνίδια του jemangr.app (δίγλωσση λίστα με άμεσα links) + όλες οι βελτιώσεις της v1.1.0 (κάθετο scroll, βαθύτερος ρυθμός, ζεστός ήχος μάχης & 🎡 Ρουλέτα).",
+  "release_notes_en": "Version v1.1.1: 🌟 Updated 'Other Apps' Settings tab showcasing all 12 live apps & games from jemangr.app with direct bilingual links + all v1.1.0 improvements (vertical scroll caverns, deeper pacing, warm combat audio & 🎡 Lucky Roulette)."
 }
