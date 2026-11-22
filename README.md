@@ -42,7 +42,7 @@ Always get the latest official Android APK build from this permanent link:
 
 ## ✨ Key Highlights (`v1.3.0`)
 
-- 🎨 **Option 1 Bouncy Cartoon 3D HUD (Gold & Goblins–Inspired):** Warm carved-wood resource capsules & mine crest, 12 dedicated 3D UI icons (`coin`, `elixir`, `gem`, `pickaxe`, `gear`, `wheel`, `lightning`, `stopwatch`, `cards`, `shield`, `fire`, `gate`), circular goblin class/spell orbs, and glossy 3D pillow buttons with your Goblin hero popping proudly above the summon button!
+- 🎨 **Redesigned Bouncy Cartoon 3D HUD:** Warm carved-wood resource capsules & mine crest, 12 dedicated 3D UI icons (`coin`, `elixir`, `gem`, `pickaxe`, `gear`, `wheel`, `lightning`, `stopwatch`, `cards`, `shield`, `fire`, `gate`), circular goblin class/spell orbs, and glossy 3D pillow buttons with your Goblin hero popping proudly above the summon button!
 - 🔤 **Offline Cartoon Rounded Typography:** Bundled Greek & Latin `M PLUS Rounded 1c` (`700/800/900`) with heavy cartoon dark-brown outlines across the HUD, modals, and 2.5D Canvas.
 - 🛒 **Rolling Forge Wagon (Scrolls With You!):** Your Barrel Cannon, supply barrels, and 6-slot goblin merge dock roll alongside you as you scroll up through the cavern, so recruiting & dropping goblins into battle is always one thumb away!
 - 📜 **Deeper `1920px` 3-Zone Caverns & Checkpoint Gate:** Fight through Outer Tunnels (`y=1120..1850`), shatter the fortified **Mid-Mine Checkpoint Gate** (`y=1000`), liberate inner outposts, and topple guarded Boss Gates (`-50%` Gate Shield while ≥2 towers stand), with smooth tunnel scroll transitions between Mines!
