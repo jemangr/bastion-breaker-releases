@@ -1,13 +1,13 @@
 {
   "name": "Bastion Breaker",
   "package": "app.jemangr.bastionbreaker",
-  "version": "1.3.0",
-  "version_code": 10300,
-  "release_date": "2026-11-21",
+  "version": "1.3.1",
+  "version_code": 10301,
+  "release_date": "2026-11-24",
   "author": "Giannis",
   "website": "https://jemangr.app",
   "download_apk_url": "https://github.com/jemangr/bastion-breaker-releases/releases/latest/download/bastion-breaker.apk",
   "releases_url": "https://github.com/jemangr/bastion-breaker-releases/releases",
-  "release_notes_el": "Έκδοση v1.3.0: 🎨 Πλήρης Redesigned Bouncy 3D UI ανανέωση! Νέα 3D UI εικονίδια (χρυσό νόμισμα, φίλτρο ελιξιρίου, διαμάντι, τσεκούρι στοάς, 3D γρανάζι, ρουλέτα, αστραπή, χρονόμετρο, κάρτες, ασπίδα, φλόγα, πύλη), ξύλινες 3D καρτέλες & γυαλιστερά pillow κουμπιά με τον Γκόμπλιν να ξεπροβάλλει, κυκλικά πορτρέτα μονάδων/δεξιοτήτων και offline Ελληνική cartoon γραμματοσειρά M PLUS Rounded 1c με σκούρο περίγραμμα.",
-  "release_notes_en": "Version v1.3.0: 🎨 Full Redesigned Bouncy 3D UI overhaul! New 3D UI icons (crown coin, elixir bottle, gem, pickaxe, metallic gear, prize wheel, lightning, stopwatch, fanned cards, shield, fire, gate), carved-wood HUD bars & glossy 3D pillow buttons with popping Goblin hero, circular unit/spell orbs, and offline cartoon rounded typography with heavy stroke outlines."
+  "release_notes_el": "Έκδοση v1.3.1: 🪓 Νέο 3D εικονίδιο εφαρμογής (κράνος γκόμπλιν εξορύκτη πάνω σε χρυσό ογκόλιθο με ενσωματωμένη αξίνα), ανανεωμένα assets και βελτιστοποιήσεις.",
+  "release_notes_en": "Version v1.3.1: 🪓 Sleek new 3D app icon (goblin miner helmet atop a raw gold nugget with embedded pickaxe), refreshed visual assets and performance optimizations."
 }

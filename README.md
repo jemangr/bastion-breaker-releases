@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v1.3.0-brightgreen" alt="Version v1.3.0" />
+  <img src="https://img.shields.io/badge/Version-v1.3.1-brightgreen" alt="Version v1.3.1" />
   <img src="https://img.shields.io/badge/Package-app.jemangr.bastionbreaker-blue" alt="Package app.jemangr.bastionbreaker" />
   <img src="https://img.shields.io/badge/Platform-Android%208.0%2B-purple" alt="Android 8.0+" />
   <img src="https://img.shields.io/badge/Languages-EL%20%7C%20EN-gold" alt="Languages EL | EN" />
@@ -40,8 +40,9 @@ Always get the latest official Android APK build from this permanent link:
 
 ---
 
-## ✨ Key Highlights (`v1.3.0`)
+## ✨ Key Highlights (`v1.3.1`)
 
+- 🪓 **New 3D App Icon:** Striking sculpted goblin miner helmet resting atop a raw gold nugget with an embedded iron pickaxe and glowing emerald crest.
 - 🎨 **Redesigned Bouncy Cartoon 3D HUD:** Warm carved-wood resource capsules & mine crest, 12 dedicated 3D UI icons (`coin`, `elixir`, `gem`, `pickaxe`, `gear`, `wheel`, `lightning`, `stopwatch`, `cards`, `shield`, `fire`, `gate`), circular goblin class/spell orbs, and glossy 3D pillow buttons with your Goblin hero popping proudly above the summon button!
 - 🔤 **Offline Cartoon Rounded Typography:** Bundled Greek & Latin `M PLUS Rounded 1c` (`700/800/900`) with heavy cartoon dark-brown outlines across the HUD, modals, and 2.5D Canvas.
 - 🛒 **Rolling Forge Wagon (Scrolls With You!):** Your Barrel Cannon, supply barrels, and 6-slot goblin merge dock roll alongside you as you scroll up through the cavern, so recruiting & dropping goblins into battle is always one thumb away!
